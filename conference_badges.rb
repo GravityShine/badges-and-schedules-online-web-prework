@@ -1,6 +1,6 @@
 def badge_maker
 
-attendes = gets.chomp
+name = gets.chomp
 
-return "Hello, my name is #{attendes}."
+puts "Hello, my name is #{name}."
 end
